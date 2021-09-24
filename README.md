@@ -1,5 +1,6 @@
 # FFXIV Tools
-Tools for installing and configuring FFXIV and ACT on Linux
+Tools for installing and configuring FFXIV and ACT on Linux. 
+**This version is specifically for the WINE 6 version of XIVLauncher only.**
 
 # Usage
 
